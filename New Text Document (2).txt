@@ -1,0 +1,20 @@
+1.Coocker 
+2.Heater
+3.Bucket -2
+4.Harpic
+5.Paste Dauber Red
+6.Sweeper
+7.DustBin
+8.Mats  -2
+9.Raise Packet Kurnool masora
+10.Water Can
+11.All out
+12.Thread -2
+13.chapa -1
+14.Washing brush
+15.Bar lights -2
+14.Hanger -1
+15.Pickle Mango-1
+16.All out 
+17.Eating Plate
+18.Drinking Water Jug
